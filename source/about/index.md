@@ -24,7 +24,3 @@ I am passionate about using data science models to solve problems because I beli
 
 ### News
 * 2020/03/04: I passed my dissertation defense and became a Ph.D.!
-
-<!-- * 2017/10/28：I made a skydiving trailer: {% youtube 'E70jHAqmoiw&t=1s' %}
-
- -->
